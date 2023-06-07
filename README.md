@@ -49,7 +49,7 @@
 
    В результате тестирования я нашла 9 багов, для которых оформила баг-репорты в баг-трекинговой системе YouTrack. 
    
-Ознакомиться с примерами тестовой документации можно по ссылке: [Чек-лист и тест-кейсы](https://docs.google.com/spreadsheets/d/1dvIkoPNcGR7iNaLh1-ayuFVMuHridqWz/edit?usp=sharing&ouid=112178378924789172657&rtpof=true&sd=true).
+Ознакомиться с примерами тестовой документации можно по ссылке: [Чек-лист и тест-кейсы](https://docs.google.com/spreadsheets/d/1dvIkoPNcGR7iNaLh1-ayuFVMuHridqWz/edit?usp=sharing&ouid=112178378924789172657&rtpof=true&sd=true)
 
 Ознакомиться с примерами баг-репортов в YouTrack можно по ссылке [Баг-репорты в YouTrack](https://tarasenko.youtrack.cloud/issues?q=%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%7B%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B%20%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%20%D1%81%D0%BE%20%D1%81%D1%87%D1%91%D1%82%D0%B0%7D)
 
