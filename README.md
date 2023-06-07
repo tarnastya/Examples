@@ -1,4 +1,4 @@
-# Examples
+
 <div id="header" align="left">
     <h3>Тестирование формы вывода средств со счёта на сайте https://groall.noda.pro/test_qa </h3>
  </div>
